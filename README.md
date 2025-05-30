@@ -93,6 +93,7 @@ Slider for Computer Score
 Dropdown menu for Interest Area (e.g., Programming, Biology, Medicine)
 You’ll see a result like: " {🎓 Recommended Career Path: Software Engineer }"
 " { 📷 UI Layout Example (Rough Visual): } "
+
 -------------------------------------------------
 📘 Smart Career Counselor
 
@@ -107,4 +108,5 @@ career recommendation:
 [Button] Predict Career
 
 🎓 Recommended Career Path: Software Engineer
+
 -------------------------------------------------
