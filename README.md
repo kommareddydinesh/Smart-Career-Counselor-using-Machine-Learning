@@ -77,3 +77,34 @@ On pressing "Predict Career":
 **a.Demonstrates an end-to-end ML pipeline: data processing → model training → evaluation → deployment.**
 **b.Uses simple data but scalable to bigger real datasets.**
 **c.Streamlit interface allows anyone to get career suggestions interactively.**
+
+
+
+# Output:
+**1.Terminal Output:**
+After training the model, this line will print:  " {Model Accuracy: 100.00%} "
+->(Note: With a small toy dataset of only 10 records, the model may overfit and give 100%. You can later replace it with a real-world dataset for generalization.)
+
+**2.Streamlit Web Interface Output:**
+🎯 Inputs:
+Slider for Maths Score
+Slider for Biology Score
+Slider for Computer Score
+Dropdown menu for Interest Area (e.g., Programming, Biology, Medicine)
+You’ll see a result like: " {🎓 Recommended Career Path: Software Engineer }"
+" { 📷 UI Layout Example (Rough Visual): } "
+-------------------------------------------------
+📘 Smart Career Counselor
+
+Enter your details below to get a personalized
+career recommendation:
+
+[Slider] Maths Score:        70
+[Slider] Biology Score:      40
+[Slider] Computer Score:     85
+[Dropdown] Interest Area:    Programming
+
+[Button] Predict Career
+
+🎓 Recommended Career Path: Software Engineer
+-------------------------------------------------
