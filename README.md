@@ -67,13 +67,13 @@ On pressing "Predict Career":
 
 
 # User flow on the app:
-1.User adjusts sliders for scores.
-2.User picks their interest.
-3.User clicks "Predict Career".
-4.The app predicts and shows the recommended career and model stats visually.
+**1.User adjusts sliders for scores.**
+**2.User picks their interest.**
+**3.User clicks "Predict Career".**
+**4.The app predicts and shows the recommended career and model stats visually.**
 
 
 # Why this is useful:
-a.Demonstrates an end-to-end ML pipeline: data processing → model training → evaluation → deployment.
-b.Uses simple data but scalable to bigger real datasets.
-c.Streamlit interface allows anyone to get career suggestions interactively.
+**a.Demonstrates an end-to-end ML pipeline: data processing → model training → evaluation → deployment.**
+**b.Uses simple data but scalable to bigger real datasets.**
+**c.Streamlit interface allows anyone to get career suggestions interactively.**
